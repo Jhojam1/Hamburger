@@ -1,9 +1,9 @@
 <?php
 // Configuración de la base de datos
-$host = 'maglev.proxy.rlwy.net'; // Host proporcionado por Railway
-$dbname = 'railway';  // El nombre de la base de datos
-$user = 'root';  // Usuario root
-$pass = 'buHZnbFeCZvpdCotfIdzMcRorbYxbTIG'; // Contraseña proporcionada
+$host = 'sql209.infinityfree.com';
+$dbname = 'if0_38928526_bd1_restaurante';
+$user = 'if0_38928526'; 
+$pass = 'Jhojam123';
 $charset = 'utf8mb4';
 
 // Mostrar errores para depuración
